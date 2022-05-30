@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1653895346 source:d:\user\documents\電腦圖學\week15_angles_trt_angle\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1646650155 d:\user\documents\電腦圖學\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1646650155 d:\user\documents\電腦圖學\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1653895346 source:d:\user\documents\電腦圖學\week15_angles_trt_again\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
